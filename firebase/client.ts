@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBTa6woNcq5-2_q3wxGnh-1E3qKLweQ_Vw",
-  authDomain: "main-95932.firebaseapp.com",
-  projectId: "main-95932",
-  storageBucket: "main-95932.appspot.com",
-  messagingSenderId: "248989027243",
-  appId: "1:248989027243:web:c82ded408672869e9220ee",
-  measurementId: "G-FYNYHYNMCW",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
